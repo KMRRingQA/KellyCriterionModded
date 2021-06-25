@@ -65,14 +65,14 @@ It is therefore clear that the bet should never exceed the expected maximum, but
   <img src="https://render.githubusercontent.com/render/math?math==(1%2B\bx)^{\frac{W}{n}}(1-x)^{\frac{L}{n}}}"><br>
   
   W/n and L/n are equialent to the probability of winning = p or losing = q, respectively. Since 0<=x<=1, we can show that the function<br>
-  <img src="https://render.githubusercontent.com/render/math?math=(1%2B\bx)^{p}(1-x)^{q}"><br>
+  <img src="https://render.githubusercontent.com/render/math?math=(1%2B\bx)^{\p}(1-x)^{\q}"><br>
   
   which is equivalent to<br> 
-  <img src="https://render.githubusercontent.com/render/math?math=e^{ln((1%2B\bx)^{p}(1-x)^{q})}"><br>
+  <img src="https://render.githubusercontent.com/render/math?math=e^{ln((1%2B\bx)^{\p}(1-x)^{\q})}"><br>
   
   is maximised when ln((1+bx)<super>p</super>+ln(1-x)<super>q</super> is maximised. Now, <br>
   
-  <img src="https://render.githubusercontent.com/render/math?math=f(x)=ln((1%2B\bx)^{p}(1-x)^{q})=ln(1%2B\bx)^{p}+ln(1-x)^{q}=pln(1+bx)+qln(1-x)"><br>
+  <img src="https://render.githubusercontent.com/render/math?math=f(x)=ln((1%2B\bx)^{\p}(1-x)^{\q})=ln(1%2B\bx)^{\p}%2Bln(1-x)^{\q}=pln(1%2B\bx)+\qln(1-x)"><br>
 </details>
 
 
