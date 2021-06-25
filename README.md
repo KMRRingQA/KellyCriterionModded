@@ -32,7 +32,7 @@ It is therefore clear that the bet should never exceed the expected maximum, but
   
   <details>
   <summary>Maximum Expected Value</summary>
-  the expected return after betting is<br/>
+  the expected return after betting is<br>
   <img src="https://render.githubusercontent.com/render/math?math=\frac{x_{0}}{L+x_{0}}*(x_{0}+L+W)*p-x_{0}"><br>
   where x<sub>0</sub> is the size of the bet, W is the size of the winning pool (excluding bet), L is the size of the losing pool & p is the probability of       winning.  
     
