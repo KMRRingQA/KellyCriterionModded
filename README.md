@@ -58,6 +58,7 @@ It is therefore clear that the bet should never exceed the expected maximum, but
     ![image](https://user-images.githubusercontent.com/62283469/123478733-c396a400-d5f7-11eb-8a38-73cba11cada2.png)
 
     as shown above, each path in a parimutuel betting tree results in slightly different values, even when the number of wins and losses are the same, thus differing from a tree purely based on a kelly coefficient.
+    
   </details>
 </details>
 
