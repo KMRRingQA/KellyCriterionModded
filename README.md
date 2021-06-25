@@ -29,12 +29,15 @@ It is therefore clear that the bet should never exceed the expected maximum, but
 </details>
 <details>
   <summary>Maximum Expected Value</summary>
-  the expected return after betting is<br>
+  the expected return after betting is<br><br>
+  
   <img src="https://render.githubusercontent.com/render/math?math=\frac{x_{0}}{L+x_{0}}*(x_{0}+L+W)*p-x_{0}"><br>
+  
   where x<sub>0</sub> is the size of the bet, W is the size of the winning pool (excluding bet), L is the size of the losing pool & p is the probability of       winning.  
     
   ![image](https://user-images.githubusercontent.com/62283469/123427909-1c951680-d5bd-11eb-9b54-baec5f09538e.png)   
-  after differentiating and simplifying we find that the maximum turning point, or the derivatives' root of interest, is found using the expression:<br>
+  after differentiating and simplifying we find that the maximum turning point, or the derivatives' root of interest, is found using the expression:<br><br>
+  
   <img src="https://render.githubusercontent.com/render/math?math=\frac{-\sqrt{LWp-LWp^{2}}-Wp+W}{p-1}"><br>
 </details>
 <details>
@@ -43,7 +46,7 @@ It is therefore clear that the bet should never exceed the expected maximum, but
   Here, rather than having to take into account pot sizes and the magnitude of the own capital, the growth rate is solely dependent on a single factor which determines the fraction of capital that should be put at risk with each bet. 
   This means that, on the nth bet, the expected returns are:<br><br>
     
-  <img src="https://render.githubusercontent.com/render/math?math=A_{n}=A_{0}(1%2Bbx)^{W}(1-x)^{L}"><br>
+  <img src="https://render.githubusercontent.com/render/math?math=A_{n}=A_{0}(1%2B\bx)^{W}(1-x)^{L}"><br>
 
   where A<sub>n</sub> is the returns after n steps, A<sub>0</sub> is the initial capital, b are the fixed odds set by the house, x the fraction of invested capital, W the number of wins and L the number of losses. 
    Since this fraction can vary greatly based on current ownings in parimutuel betting, this basic assumption can not be fullfilled, and the binomial tree on which Kelly bases his theory cannot be constructed without discrepencies.
