@@ -36,7 +36,7 @@ It is therefore clear that the bet should never exceed the expected maximum, but
   <img src="https://render.githubusercontent.com/render/math?math=\frac{x_{0}}{L+x_{0}}*(x_{0}+L+W)*p-x_{0}"><br>
   where x<sub>0</sub> is the size of the bet, W is the size of the winning pool (excluding bet), L is the size of the losing pool & p is the probability of       winning.  
     
-  ![image](https://user-images.githubusercontent.com/62283469/123427909-1c951680-d5bd-11eb-9b54-baec5f09538e.png   
+  ![image](https://user-images.githubusercontent.com/62283469/123427909-1c951680-d5bd-11eb-9b54-baec5f09538e.png)   
   after differentiating and simplifying we find that the maximum turning point, or the derivatives' root of interest, is found using the expression:<br/>
   <img src="https://render.githubusercontent.com/render/math?math=\frac{-\sqrt{LWp-LWp^{2}}-Wp+W}{p-1}"><br>
   </details>
@@ -55,7 +55,7 @@ It is therefore clear that the bet should never exceed the expected maximum, but
     
     Since this fraction can vary greatly based on current ownings in parimutuel betting, this basic assumption can not be fullfilled, and the binomial tree on which Kelly bases his theory cannot be constructed without discrepencies.
     
-    ![image](https://user-images.githubusercontent.com/62283469/123478733-c396a400-d5f7-11eb-8a38-73cba11cada2.png
+    ![image](https://user-images.githubusercontent.com/62283469/123478733-c396a400-d5f7-11eb-8a38-73cba11cada2.png)
 
     as shown above, each path in a parimutuel betting tree results in slightly different values, even when the number of wins and losses are the same, thus differing from a tree purely based on a kelly coefficient.
     
