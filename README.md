@@ -8,5 +8,15 @@ The Kelly Criterion derives optimal bet sizing in fixed odd betting where the be
 
 In many real-world applications, particularly in finance, the Kelly Criterion overstates the portion of the portfolio that should be invested. The reasons for this are plentiful, one of which are the diminishing returns one yields when pursuing the same trading strategy with larger investments. This is particularly true for illiquid positions where the ideal investment size is large compared to the volume traded. 
 
+example:
+| Bet size  | odds | expected profit |
+| ------------- | ------------- |
+| 1  | 10/11 -> 0.91 | 0.43$ | 
+| 5  | 10/15 -> 0.67 | 1.25$ |
+| 7.32  | 10/17.32 -> 0.58 | 1.33$ |
+| 10  | 10/20 -> 0.5 | 1.25$ |
+| 20  | 10/30 -> 0.33 | 0.00$ |
+| 30  | 10/40 -> 0.25 | -1.875$ |
+
 Parimutuel betting more accurately models this behaviour since marginal returns diminish with greater bet size.
 
