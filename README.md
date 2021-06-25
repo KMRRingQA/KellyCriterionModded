@@ -30,11 +30,13 @@ It is therefore clear that the bet should never exceed the expected maximum, but
 </details>
 
 <details>
-  <summary>Derivation</summary>
-#### Maximum expected value
-  the ratio of the pool that is paid out in the scenario of a win is  
-  
-  <img src="https://render.githubusercontent.com/render/math?math=\frac{x_{0}}{P_{L}+x_{0}}*(x_{0}+P_{L}+P_{W})">
+  <summary>Derivations</summary>
+  <details>
+    <summary>Maximum Expected Value</summary>
+    the ratio of the pool that is paid out in the scenario of a win is  <br/>
+    <br/>
+    <img src="https://render.githubusercontent.com/render/math?math=\frac{x_{0}}{P_{L}+x_{0}}*(x_{0}+P_{L}+P_{W})">
+  </details>
 </details>
 
 
