@@ -58,6 +58,21 @@ It is therefore clear that the bet should never exceed the expected maximum, but
   returning to the derivation: the growth rate of any system is defined as<br>
   
   <img src="https://render.githubusercontent.com/render/math?math=G=(\frac{A_{n}}{A_{0}})^{\frac{1}{n}}-1"><br>
+  
+  rearranging<br>
+  <img src="https://render.githubusercontent.com/render/math?math=A_{n}=A_{0}(1%2B\bx)^{W}(1-x)^{L}"><br>
+  <img src="https://render.githubusercontent.com/render/math?math==(\frac{A_{n}}{A_{0}})^{\frac{1}{n}}=[(1%2B\bx)^{W}(1-x)^{L}]^{\frac{1}{n}}"><br>
+  <img src="https://render.githubusercontent.com/render/math?math==(1%2B\bx)^{\frac{W}{n}}(1-x)^{\frac{L}{n}}}"><br>
+  
+  W/n and L/n are equialent to the probability of winning = p or losing = q, respectively. Since 0<=x<=1, we can show that the function<br>
+  <img src="https://render.githubusercontent.com/render/math?math=(1%2B\bx)^{p}(1-x)^{q}"><br>
+  
+  which is equivalent to<br> 
+  <img src="https://render.githubusercontent.com/render/math?math=e^{ln((1%2B\bx)^{p}(1-x)^{q})}"><br>
+  
+  is maximised when ln((1+bx)<super>p</super>+ln(1-x)<super>q</super> is maximised. Now, <br>
+  
+  <img src="https://render.githubusercontent.com/render/math?math=f(x)=ln((1%2B\bx)^{p}(1-x)^{q})=ln(1%2B\bx)^{p}+ln(1-x)^{q}=pln(1+bx)+qln(1-x)"><br>
 </details>
 
 
