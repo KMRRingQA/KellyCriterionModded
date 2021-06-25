@@ -19,5 +19,7 @@ example:
 | 20  | 10/30 -> 0.33 | 0.00$ |
 | 30  | 10/40 -> 0.25 | -1.875$ |
 
-Parimutuel betting more accurately models this behaviour since marginal returns diminish with greater bet size.
+as can be seen, larger bet sizes continually worsen odds. The expected return is maximised at an investment of 7.32, a result which is derived in section one of the write up. betting more than 20$ actually yields negative returns as it pushes the odds below the real probability of 0.75.
+
+![image](https://user-images.githubusercontent.com/62283469/123427909-1c951680-d5bd-11eb-9b54-baec5f09538e.png)
 
