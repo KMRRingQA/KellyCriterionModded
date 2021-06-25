@@ -39,6 +39,8 @@ It is therefore clear that the bet should never exceed the expected maximum, but
   after differentiating and simplifying we find that the maximum turning point, or the derivatives' root of interest, is found using the expression:<br><br>
   
   <img src="https://render.githubusercontent.com/render/math?math=\frac{-\sqrt{\LWp-\LWp^{2}}-\W\p%2B\W}{\p-1}"><br>
+  
+  this is the maximum expected value. Betting higher than this amount is never correct. Betting at this amount is only correct if the portfolio is so large that the amount is at or above the Kelly Criterium. In most cases, the Kelly Criterium will be significantly lower. 
 </details>
 <details>
   <summary>Vanilla Kelly Criterion</summary>
