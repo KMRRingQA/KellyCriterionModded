@@ -44,7 +44,6 @@ It is therefore clear that the bet should never exceed the expected maximum, but
   This means that, on the nth bet, the expected returns are:<br>
     
   <img src="https://render.githubusercontent.com/render/math?math=A_{n}=A_{0}(1+bx)^{W}(1-x)^{L}"><br>
-  <img src="https://render.githubusercontent.com/render/math?math=\frac{x_{0}}{L+x_{0}}*(x_{0}+L+W)*p-x_{0}"><br>
 
   where A<sub>n</sub> is the returns after n steps, A<sub>0</sub> is the initial capital, b are the fixed odds set by the house, x the fraction of invested capital, W the number of wins and L the number of losses. 
    Since this fraction can vary greatly based on current ownings in parimutuel betting, this basic assumption can not be fullfilled, and the binomial tree on which Kelly bases his theory cannot be constructed without discrepencies.
