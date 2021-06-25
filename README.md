@@ -74,7 +74,7 @@ It is therefore clear that the bet should never exceed the expected maximum, but
   
   <img src="https://render.githubusercontent.com/render/math?math=\f(x)=\ln((1%2B\bx)^{\p}(1-x)^{\q})=\ln(1%2B\bx)^{\p}%2B\ln(1-x)^{\q}=\pln(1%2B\bx)+\qln(1-x)"><br>
   
-  <img src="https://render.githubusercontent.com/render/math?math=\therefore \f'(x)=\p \cdot \frac{1}{1%2B\bx} \cdot b"><br>
+  <img src="https://render.githubusercontent.com/render/math?math=\therefore \f'(x)=\p\cdot\frac{1}{1%2B\bx}\cdotb"><br>
 </details>
 
 
