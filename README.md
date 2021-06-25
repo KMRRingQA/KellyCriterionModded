@@ -23,3 +23,6 @@ as can be seen, larger bet sizes continually worsen odds. The expected return is
 
 ![image](https://user-images.githubusercontent.com/62283469/123427909-1c951680-d5bd-11eb-9b54-baec5f09538e.png)
 
+it is obvious that betting above the maximum expected value is never reasonable. However, Kelly teaches us that betting *at* the expected maximum is *also* not always the optimal system for long term growth - this occurs when the expected maximum exceeds the Kelly criterium. For instance, when the size of the portfolio itself is 7.32, it would be foolish to bet all of it, as there is a 25% chance of losing all and being unable to exploit the edge in the future.
+
+It is therefore clear that the bet should never exceed the expected maximum, but also not exceed the Kelly criterion. This in turn poses its own problems, as this criterion is dependent on the edge you have on the house, however this edge diminishes with bet size (unlike fixed odds betting, with Kelly based his Mathematics off).
