@@ -33,9 +33,9 @@ It is therefore clear that the bet should never exceed the expected maximum, but
   <summary>Derivations</summary>
   <details>
     <summary>Maximum Expected Value</summary>
-    the ratio of the pool that is paid out in the scenario of a win is  <br/>
-    <br/>
-    <img src="https://render.githubusercontent.com/render/math?math=\frac{x_{0}}{P_{L}+x_{0}}*(x_{0}+P_{L}+P_{W})">
+    the ratio of the pool that is paid out in the scenario of a win is<br/>
+    <img src="https://render.githubusercontent.com/render/math?math=\frac{x_{0}}{L+x_{0}}*(x_{0}+L+W)*">
+    where x<sub>0</sub> is the size of the bet, W is the size of the winning pool (excluding bet) and L is the size of the losing pool.
   </details>
 </details>
 
