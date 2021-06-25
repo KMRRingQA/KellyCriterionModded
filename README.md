@@ -27,8 +27,10 @@ it is obvious that betting above the maximum expected value is never reasonable.
 
 It is therefore clear that the bet should never exceed the expected maximum, but also not exceed the Kelly criterion. This in turn poses its own problems, as this criterion is dependent on the edge you have on the house, however this edge diminishes with bet size (unlike fixed odds betting, with Kelly based his Mathematics off).
 
-![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
-
+<summary>SonarQube</summary>
+<img src = "https://i.imgur.com/PoXvP3k.png">
+</details>
+<details>
 <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 
 
