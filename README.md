@@ -37,10 +37,9 @@ It is therefore clear that the bet should never exceed the expected maximum, but
 
   ![image](https://user-images.githubusercontent.com/62283469/123427909-1c951680-d5bd-11eb-9b54-baec5f09538e.png)
     
+    after differentiating and simplifying we find that the maximum turning point, or root of derivate of interest, is found using the expression:<br/>
+    <img src="https://render.githubusercontent.com/render/math?math=\frac{-\sqrt{LWp-LWp^{2}}-Wp+W}{p-1}"><br>
   </details>
-  
-  ![image](https://user-images.githubusercontent.com/62283469/123427909-1c951680-d5bd-11eb-9b54-baec5f09538e.png)
-  
 </details>
 
 
