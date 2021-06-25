@@ -70,7 +70,7 @@ It is therefore clear that the bet should never exceed the expected maximum, but
   which is equivalent to<br> 
   <img src="https://render.githubusercontent.com/render/math?math=e^{ln((1%2B\bx)^{\p}(1-x)^{\q})}"><br>
   
-  is maximised when ln((1+bx)<super>p</super>+ln(1-x)<super>q</super> is maximised. Now, <br>
+  is maximised when ln((1+bx)<super>p</super>+ln(1-x)<sup>q</sup> is maximised. Now, <br>
   
   <img src="https://render.githubusercontent.com/render/math?math=\f(x)=\ln((1%2B\bx)^{\p}(1-x)^{\q})=\ln(1%2B\bx)^{\p}%2B\ln(1-x)^{\q}=\pln(1%2B\bx)+\qln(1-x)"><br>
   
