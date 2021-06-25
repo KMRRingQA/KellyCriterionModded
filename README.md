@@ -29,3 +29,6 @@ It is therefore clear that the bet should never exceed the expected maximum, but
 
 ![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
 
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+
+
