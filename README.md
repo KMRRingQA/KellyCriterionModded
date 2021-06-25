@@ -72,12 +72,13 @@ It is therefore clear that the bet should never exceed the expected maximum, but
   which is equivalent to<br> 
   <img src="https://render.githubusercontent.com/render/math?math=e^{ln((1%2B\bx)^{\p}(1-x)^{\q})}"><br>
   
-  is maximised when ln((1+bx)<super>p</super>+ln(1-x)<sup>q</sup> is maximised. Now, <br>
+  is maximised when ln((1+bx)<sup>p</sup>+ln(1-x)<sup>q</sup> is maximised. Now, <br>
   
   <img src="https://render.githubusercontent.com/render/math?math=\f(x)=\ln((1%2B\bx)^{\p}(1-x)^{\q})=\ln(1%2B\bx)^{\p}%2B\ln(1-x)^{\q}=\pln(1%2B\bx)+\qln(1-x)"><br>
   
   <img src="https://render.githubusercontent.com/render/math?math=\therefore \f'(x)=\p\cdot\frac{1}{1%2B\bx}\cdot\b+\q\cdot\frac{1}{1-x}\cdot(-1)=\frac{\pb}{1%2B\bx}%2B\frac{-\q}{1-x}"><br>
     <img src="https://render.githubusercontent.com/render/math?math=\therefore x=\K=\frac{\bp-\q}{\b}"><br>
+  which is the Kelly Criterion for fixed-odd bets.
 </details>
 
 
