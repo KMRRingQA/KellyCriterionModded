@@ -57,7 +57,7 @@ It is therefore clear that the bet should never exceed the expected maximum, but
   
   returning to the derivation: the growth rate of any system is defined as<br>
   
-  <img src="https://render.githubusercontent.com/render/math?math=G=(frac{A_{n}}{A_{0}})^{frac{1}{n}}-1"><br>
+  <img src="https://render.githubusercontent.com/render/math?math=G=(\frac{A_{n}}{A_{0}})^{\frac{1}{n}}-1"><br>
 </details>
 
 
