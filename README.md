@@ -35,7 +35,9 @@ It is therefore clear that the bet should never exceed the expected maximum, but
   the expected return after betting is<br/>
   <img src="https://render.githubusercontent.com/render/math?math=\frac{x_{0}}{L+x_{0}}*(x_{0}+L+W)*p-x_{0}"><br>
   where x<sub>0</sub> is the size of the bet, W is the size of the winning pool (excluding bet), L is the size of the losing pool & p is the probability of       winning.  
+    
   ![image](https://user-images.githubusercontent.com/62283469/123427909-1c951680-d5bd-11eb-9b54-baec5f09538e.png)
+    
   after differentiating and simplifying we find that the maximum turning point, or the derivatives' root of interest, is found using the expression:<br/>
   <img src="https://render.githubusercontent.com/render/math?math=\frac{-\sqrt{LWp-LWp^{2}}-Wp+W}{p-1}"><br>
   </details>
