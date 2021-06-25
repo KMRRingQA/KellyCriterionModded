@@ -23,7 +23,6 @@ In many real-world applications, particularly in finance, the Kelly Criterion ov
 as can be seen, larger bet sizes continually worsen odds. The expected return is maximised at an investment of 7.32, a result which is derived in section one of the write up. betting more than 20$ actually yields negative returns as it pushes the odds below the real probability of 0.75.
 
 ![image](https://user-images.githubusercontent.com/62283469/123427909-1c951680-d5bd-11eb-9b54-baec5f09538e.png)
-![image](https://user-images.githubusercontent.com/62283469/123427909-1c951680-d5bd-11eb-9b54-baec5f09538e.png)
 it is obvious that betting above the maximum expected value is never reasonable. However, Kelly teaches us that betting *at* the expected maximum is *also* not always the optimal system for long term growth - this occurs when the expected maximum exceeds the Kelly criterium. For instance, when the size of the portfolio itself is 7.32, it would be foolish to bet all of it, as there is a 25% chance of losing all and being unable to exploit the edge in the future.
 
 It is therefore clear that the bet should never exceed the expected maximum, but also not exceed the Kelly criterion. This in turn poses its own problems, as this criterion is dependent on the edge you have on the house, however this edge diminishes with bet size (unlike fixed odds betting, with Kelly based his Mathematics off).
@@ -36,8 +35,12 @@ It is therefore clear that the bet should never exceed the expected maximum, but
     <img src="https://render.githubusercontent.com/render/math?math=\frac{x_{0}}{L+x_{0}}*(x_{0}+L+W)*p-x_{0}"><br>
     where x<sub>0</sub> is the size of the bet, W is the size of the winning pool (excluding bet), L is the size of the losing pool & p is the probability of winning.  
 
-  </details>
   ![image](https://user-images.githubusercontent.com/62283469/123427909-1c951680-d5bd-11eb-9b54-baec5f09538e.png)
+    
+  </details>
+  
+  ![image](https://user-images.githubusercontent.com/62283469/123427909-1c951680-d5bd-11eb-9b54-baec5f09538e.png)
+  
 </details>
 
 
