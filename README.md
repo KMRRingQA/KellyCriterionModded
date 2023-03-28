@@ -62,7 +62,7 @@ It is therefore clear that the bet should never exceed the expected maximum, but
   <img src="https://render.githubusercontent.com/render/math?math=G=(\frac{A_{n}}{A_{0}})^{\frac{1}{n}}-1"><br>
   
   rearranging<br>
-  <img src="https://render.githubusercontent.com/render/math?math=A_{n}=A_{0}(1%2B\bx)^{W}(1-x)^{L}"><br>
+  $$A_{n}=A_{0}(1%2B\bx)^{W}(1-x)^{L}"><br>
   <img src="https://render.githubusercontent.com/render/math?math==(\frac{A_{n}}{A_{0}})^{\frac{1}{n}}=[(1%2B\bx)^{W}(1-x)^{L}]^{\frac{1}{n}}"><br>
   <img src="https://render.githubusercontent.com/render/math?math==(1%2B\bx)^{\frac{W}{n}}(1-x)^{\frac{L}{n}}"><br>
   
